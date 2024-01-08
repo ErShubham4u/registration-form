@@ -1,6 +1,6 @@
 # registration-form
 
-## Bharat Intern Internship Task 1
+# Bharat Intern Internship Task 1
 
 🚀 **Exciting Update!** Completed Task 1 of my internship at Bharat Intern, crafting a registration form with HTML, CSS, Node.js, and MongoDB.
 
@@ -30,8 +30,18 @@ This project marks the successful completion of Task 1 during my internship at B
 4. Start MongoDB server.
 5. Run `node app.js` to start the application.
 
-## Video Demonstration
+## Screenshots
 
-For a detailed walkthrough of the project, check out the [Task 1 Video Demonstration](https://github.com/ErShubham4u/registration-form/assets/100616631/812d5026-318e-46e9-b972-effe697dff28).
+### Registration Form
+
+![Registration Form](https://github.com/ErShubham4u/registration-form/assets/100616631/30035474-7044-42b7-a423-92db3ba4c218)
+
+### Registration Successful
+
+![Registration Successful](https://github.com/ErShubham4u/registration-form/assets/100616631/35659a43-adae-47b4-8e56-72cdf19bf633)
+
+### Registration Error
+
+![Registration Error](https://github.com/ErShubham4u/registration-form/assets/100616631/88477cde-7144-45db-9684-322c81e704af)
 
 Feel free to reach out for any questions or feedback. Looking forward to more exciting tasks during my internship at Bharat Intern! ✨

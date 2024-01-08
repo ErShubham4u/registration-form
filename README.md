@@ -28,7 +28,7 @@ This project marks the successful completion of Task 1 during my internship at B
 2. Clone this repository.
 3. Run `npm install` to install dependencies.
 4. Start MongoDB server.
-5. Run `node app.js` to start the application.
+5. Run `node index.js` to start the application.
 
 ## Screenshots
 
